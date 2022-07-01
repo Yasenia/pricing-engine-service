@@ -1,0 +1,5 @@
+spring:
+  jpa:
+    show-sql: true
+  messages:
+    basename: messages.test-exception

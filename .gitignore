@@ -1,0 +1,13 @@
+.idea/
+out/
+
+.gradle/
+build/*
+
+dev/http
+
+application-*.yml
+!*.template.yml
+
+gradle.properties
+!gradle.template.properties
